@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/merkatsu/website.png?label=ready&title=Ready)](https://waffle.io/merkatsu/website)
 # website
 
 Follow or guide merkatsu's <b>web app</b> development in <a href="https://github.com/merkatsu/website/issues">our issues</a>
